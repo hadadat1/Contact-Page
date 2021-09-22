@@ -1,0 +1,30 @@
+
+body {
+    background-color: lightsteelblue;
+}
+h1 {
+    color:darkslateblue;
+}
+nav a {
+    text-align-last: right;
+    float: right;
+    margin: 10px;
+    color: aqua;
+    font-size: 25px;
+}
+a:hover {
+    color: deeppink;
+}
+
+#box1 {
+    height: 100px;
+    width: 1200px;
+    background-color: blueviolet;
+}
+
+#conNav {
+    text-align-last: left;
+    font-size: 20px;
+    float: left;
+
+}
